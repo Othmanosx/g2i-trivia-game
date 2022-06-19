@@ -12,4 +12,6 @@ Clone the repo and run `yarn install`
 
 ## Start
 
-After the successfull installation of the packages: `yarn dev`
+After the successful installation of the packages, run `yarn dev` to start the dev environment.
+
+to build production version, run `yarn build` then `yarn start` to start website in production mode
